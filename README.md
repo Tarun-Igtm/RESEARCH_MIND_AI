@@ -18,29 +18,6 @@ It extracts important sections such as:
 
 The application also generates quick research insights and allows users to export the report as a professional PDF.
 
-##### 💡 **Project Architecture**
-
-PDF Upload
-             │
-             ▼
-      Text Extraction
-             │
-             ▼
-      Text Cleaning
-             │
-             ▼
-      Google Gemini AI
-             │
-      ┌──────┴────────┐
-      ▼               ▼
-Research Report   Insights
-      │               │
-      └──────┬────────┘
-             ▼
-        PDF Export
-
----
-
 ## 🚀 Live Demo
 
 Coming Soon...
@@ -107,37 +84,47 @@ Run the application
 streamlit run app.py
 ```
 
+
+
 ## 📸 Screenshots
 
-### Home Page
-
+<h3>🏠 Home Page</h3>
 
 <p align="center">
   <img src="assets/home.png" width="900">
 </p>
 
----
-
-### Dashboard
-
-
-
-![Dashboard](assets/dashboard.png)
-
-
 <p align="center">
-  <img src="assets/dashboard2.png" width="900">
+  <img src="assets/home.png" width="900">
 </p>
 
+<h3>📊 Dashboard</h3>
+
+<p align="center">
+  <img src="assets/dashboard1.png" width="900">
+</p>
 
 <p align="center">
   <img src="assets/dashboard.png" width="900">
 </p>
 
----
+<p align="center">
+  <img src="assets/dashboard.png" width="900">
+</p>
 
-### AI Report
+<p align="center">
+  <img src="assets/dashboard2.png" width="900">
+</p>
 
+<h3>📄 AI Report</h3>
+
+<p align="center">
+  <img src="assets/report_page2.png" width="900">
+</p>
+
+<p align="center">
+  <img src="assets/report_page3.png" width="900">
+</p>
 
 <p align="center">
   <img src="assets/report1.png" width="900">
@@ -150,6 +137,31 @@ streamlit run app.py
 <p align="center">
   <img src="assets/report3.png" width="900">
 </p>
+
+<p align="center">
+  <img src="assets/report1.png" width="900">
+</p>
+
+<p align="center">
+  <img src="assets/report_page1.png" width="900">
+</p>
+
+<p align="center">
+  <img src="assets/report2.png" width="900">
+</p>
+
+<p align="center">
+  <img src="assets/report3.png" width="900">
+</p>
+
+<p align="center">
+  <img src="assets/report_page1.png" width="900">
+</p>
+
+<p align="center">
+  <img src="assets/report_page1.png" width="900">
+</p>
+
 
 
 ## 🔮 Version 2 Roadmap
@@ -168,3 +180,7 @@ streamlit run app.py
 B.Tech - Artificial Intelligence & Data Science
 
 If you like this project, consider giving it a ⭐ on GitHub.
+
+<p align="center">
+  <img src="assets/report_page1.png" width="900">
+</p>

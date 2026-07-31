@@ -688,3 +688,5 @@ st.markdown("---")
 st.caption(
     "© 2026 ResearchMind AI | Built with ❤️ using Streamlit & Google Gemini"
 )
+
+
