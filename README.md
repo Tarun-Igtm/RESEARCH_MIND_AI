@@ -18,17 +18,7 @@ It extracts important sections such as:
 
 The application also generates quick research insights and allows users to export the report as a professional PDF.
 
-## 🚀 Live Demo
 
-Coming Soon...
-
----
-
-## 📸 Preview
-
-(Add screenshots here)
-
----
 
 ## ✨ Features
 
@@ -41,6 +31,8 @@ Coming Soon...
 - 📊 Dashboard with Research Statistics
 - 🎨 Clean & Interactive Streamlit UI
 
+
+
 ## 🛠 Tech Stack
 
 | Technology    | Purpose             |
@@ -51,6 +43,8 @@ Coming Soon...
 | PyMuPDF       | PDF Text Extraction |
 | ReportLab     | PDF Generation      |
 | Python Dotenv | API Key Management  |
+
+
 
 ## ⚙ Installation
 
@@ -172,6 +166,8 @@ streamlit run app.py
 - 🔍 Semantic Search
 - 📖 Citation Extraction
 - 📊 Compare Multiple Research Papers
+
+
 
 ## 👨‍💻 Author
 
