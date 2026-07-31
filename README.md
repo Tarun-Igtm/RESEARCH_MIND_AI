@@ -88,9 +88,6 @@ streamlit run app.py
   <img src="assets/home.png" width="900">
 </p>
 
-<p align="center">
-  <img src="assets/home.png" width="900">
-</p>
 
 <h3>📊 Dashboard</h3>
 
@@ -98,13 +95,6 @@ streamlit run app.py
   <img src="assets/dashboard1.png" width="900">
 </p>
 
-<p align="center">
-  <img src="assets/dashboard.png" width="900">
-</p>
-
-<p align="center">
-  <img src="assets/dashboard.png" width="900">
-</p>
 
 <p align="center">
   <img src="assets/dashboard2.png" width="900">
@@ -112,13 +102,6 @@ streamlit run app.py
 
 <h3>📄 AI Report</h3>
 
-<p align="center">
-  <img src="assets/report_page2.png" width="900">
-</p>
-
-<p align="center">
-  <img src="assets/report_page3.png" width="900">
-</p>
 
 <p align="center">
   <img src="assets/report1.png" width="900">
@@ -132,29 +115,6 @@ streamlit run app.py
   <img src="assets/report3.png" width="900">
 </p>
 
-<p align="center">
-  <img src="assets/report1.png" width="900">
-</p>
-
-<p align="center">
-  <img src="assets/report_page1.png" width="900">
-</p>
-
-<p align="center">
-  <img src="assets/report2.png" width="900">
-</p>
-
-<p align="center">
-  <img src="assets/report3.png" width="900">
-</p>
-
-<p align="center">
-  <img src="assets/report_page1.png" width="900">
-</p>
-
-<p align="center">
-  <img src="assets/report_page1.png" width="900">
-</p>
 
 
 
